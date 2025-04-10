@@ -14,7 +14,7 @@
 	    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 	      <div class="navbar-nav">
 	        <a class="nav-link active" aria-current="page" href="<?php echo APP_PATH; ?>/home/">Home</a>
-	        <a class="nav-link" href="<?php echo APP_PATH; ?>/home/page/">Page</a>
+	        <a class="nav-link" href="<?php echo APP_PATH; ?>/home/page/">Kylie Injilia Makarages</a>
 	        <a class="nav-link" href="<?php echo APP_PATH; ?>/project/">Project</a>
 	      </div>
 	    </div>
